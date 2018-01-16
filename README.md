@@ -2,6 +2,11 @@
 
 ESP12F slack controlled Neopixels
 
+[![Alt text for your video](https://img.youtube.com/vi/Wy8WlwN-bvc/0.jpg)](http://www.youtube.com/watch?v=Wy8WlwN-bvc)
+
+
+
+
 
 Extended from Uri Shaked's good work. Serial control of Neopixels. Issue commands like "blue", "brightness20 blue" etc. 
 
