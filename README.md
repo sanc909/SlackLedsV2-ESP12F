@@ -9,5 +9,6 @@ Commands can be issued from terminal or sent from associated Chrome WebApp/Exten
 
 
 
-
-<iframe width="356" height="200" src="https://www.youtube.com/embed/Wy8WlwN-bvc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Wy8WlwN-bvc
+" target="_blank"><img src="http://img.youtube.com/vi/Wy8WlwN-bvc/0.jpg" 
+alt="Slack Controlled Neopixels" width="240" height="180" border="10" /></a>
