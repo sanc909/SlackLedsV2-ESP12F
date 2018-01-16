@@ -2,8 +2,17 @@
    Arduino Real-Time Slack Bot
 
    Copyright (C) 2016, Uri Shaked.
+   
+   Jan 2018, sanc909. 
+   
+   This version uses serial port for communication with a Chrome Web App.
+   1. No Wifi. On Windows, serial port driver needs to be installed. 
+   2. Brightness can be specified as a part of command string. Syntax is BrightnessValue (no space) e.g. Brightness10
+   3. Sample command from terminal - "blue", "zebra blue" (alternate leds), "brightness20 blue" etc. 
 
    Licensed under the MIT License
+
+
 */
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h>
