@@ -1,6 +1,6 @@
 # SlackLedsV2-ESP12F
 
-ESP12F slack controlled Neopixels
+ESP12F slack controlled Neopixels. Watch this video:
 
 
 [![SlackLeds](http://img.youtube.com/vi/Wy8WlwN-bvc/0.jpg)](http://www.youtube.com/watch?v=Wy8WlwN-bvc "SlackLeds")
