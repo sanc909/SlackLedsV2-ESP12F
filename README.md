@@ -12,3 +12,6 @@ Extended from Uri Shaked's good work. Serial control of Neopixels. Issue command
 
 Commands can be issued from Serial Monitor/terminal or sent from associated Chrome WebApp/Extension.  
 
+Developed in Arduino IDE. Requires following libraries: WebSockets, Adafruit_NeoPixel and ArduinoJSON. 
+
+See SlackLedsV2-ChrommeApp for the Chrome Web App which controls the ESP12F. 
